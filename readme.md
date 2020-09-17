@@ -12,7 +12,8 @@ LICENSE: [MIT](license.md)
 
 
 
-### Содержание:
-1. [Что такое GIT](GIT_description.md)
-2. [git add](add.md)
+## Содержание:
+### 1. [Что такое GIT](GIT_description.md)
+### 2. [Базовые понятия и основные команды](main_commands.md)
+### 3. [Инструкция по работе с GIT](instructions.md)
 
